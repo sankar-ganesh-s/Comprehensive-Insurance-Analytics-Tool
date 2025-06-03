@@ -5,7 +5,7 @@ The Insurance Policy Dashboard Application was built to deliver a dynamic, user-
          
 # DEMO VIDEO FOR Application:
 
-
+https://github.com/user-attachments/assets/d73ae5da-ea5d-4671-bead-ce4e8ff86f7e
 
 ## Technology used
  * React JS: Front-end library used for building a responsive and dynamic user interface.
